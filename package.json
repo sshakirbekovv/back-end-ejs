@@ -1,0 +1,22 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Back End Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nurka144/back-end-ejs.git"
+  },
+  "keywords": [
+    "ExpressJS"
+  ],
+  "author": "Tuzelbekov Nurbek / Shakirbekov Erkebulan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nurka144/back-end-ejs/issues"
+  },
+  "homepage": "https://github.com/Nurka144/back-end-ejs#readme"
+}
